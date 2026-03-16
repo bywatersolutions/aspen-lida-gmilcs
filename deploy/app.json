@@ -1,0 +1,15 @@
+{
+  "name": "GMILCS",
+  "slug": "gmilcs",
+  "easId": "3f8ce3c5-0b4d-484f-a917-edc18993dbdc",
+  "reverseDns": "org.aspendiscovery.gmilcs",
+  "discoveryUrl": "https://discover.gmilcs.org/",
+  "greenhouseUrl": "https://discover.gmilcs.org/",
+  "libraryId": "2",
+  "themeId": "1",
+  "background": "#ffffff",
+  "sentryProject": "aspen-lida-gmilcs",
+  "sentryDsn": "https://d896a493a695162366161761deb6dde0@o994439.ingest.sentry.io/4505681843453952",
+  "ascAppId": "6460129139",
+  "logLevel": "0"
+}
